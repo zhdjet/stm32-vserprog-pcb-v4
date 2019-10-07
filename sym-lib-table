@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name stm32f103c8t6_custom)(type Legacy)(uri ${KIPRJMOD}/stm32f103c8t6_custom.lib)(options "")(descr ""))
+  (lib (name zif_socket)(type Legacy)(uri ${KIPRJMOD}/zif_socket.lib)(options "")(descr ""))
+)
